@@ -34,7 +34,7 @@ body{
 /* ***************************** */
 
 header .poster{
-    background: linear-gradient(to right, #4a0f98, #b16616);
+    background: linear-gradient(to right, #da3a8a, #b16616);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -281,7 +281,7 @@ header .text .btn a:hover{
     width: 100%;
     height: 100%;
     color: white;
-    background: linear-gradient(to right, #4c11958c, #af64198e);
+    background: linear-gradient(to right, #da3a8a8c, #af64198e);
 }
 
 .collections .block .box .box-img{
@@ -349,7 +349,7 @@ header .text .btn a:hover{
     width: 100%;
     height: 100%;
     color: white;
-    background: linear-gradient(to right, #4c11958c, #af64198e);
+    background: linear-gradient(to right, #da3a8a8c, #af64198e);
 }
 
 .series .block .box .box-img{
@@ -412,7 +412,7 @@ header .text .btn a:hover{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: linear-gradient(to right, #4c11958c, #af64198e );
+    background: linear-gradient(to right, #da3a8a8c, #af64198e );
     color: white;
     font-size: 24px;
 }
